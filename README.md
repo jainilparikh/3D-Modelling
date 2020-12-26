@@ -38,10 +38,3 @@ Under the path of the folder, use the command `make` to run the program.
 | +/- | When an object or a light is selected, scale it in the selected axis, not working if no axis is selected |
 | 1/2/3/4/5 | change current drawing material |
 | m | apply the current drawing material to the selected object, not working if no object is selected |
-
-> **Example:** if you want to translate an object in axis x, you should left click this object then press x then press UP or DOWN.
-
-## Remarks
-- For some raisons (limits, operations...), the translation is according to the scene's xyz not the selected object itself.
-- The selected object will be covered by a wireframe cube and shows its axes x (red), y (green) and z (blue) and the selected axis is cyan.
-- At the beginning, the two little sphere represent lights which can be translated.
