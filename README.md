@@ -2,7 +2,7 @@
 This is a simple 3D modeling system using OpenGL and C++. 
 
 <p align="center">
-  <img width="500" src="figure.png"/>
+  <img width="500" src="classroom.png"/>
 </p>
 
 ## Functions
