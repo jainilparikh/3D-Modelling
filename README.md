@@ -7,7 +7,7 @@ This is a simple 3D modeling system using OpenGL and C++.
 
 ## Functions
 1. **Scene Object Structure & Rendering:** All objects are stored in a list. The display loop iterates over the loop.
-2. **Adding Objects:** You can create an object at a random position of one of the five defined shapes (Table, Chair, Windows).
+2. **Adding Objects:** You can create an object at a random position of one of the three defined shapes (Table, Chair, Windows).
 3. **Interacting with Objects:** You can rotate/translate/scale the selected object with some commands.
 4. **Save/Load txt file:** You can save the current scene to a txt file. You NEED to enter the file name (without .txt). All information about the scene and objects will be saved. To load a txt file, you need to enter the file name (without .txt).
   
