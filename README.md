@@ -14,6 +14,7 @@ This is a simple 3D modeling system using OpenGL and C++.
   
 ## Instruction
 Under the path of the folder, use the command `make` to run the program.
+Use the L command followed by  filename ClassDraw to get the Classroom Model.
 
 | Controls | Functions |
 |:----------:|-------------|
