@@ -38,3 +38,5 @@ Under the path of the folder, use the command `make` to run the program.
 | +/- | When an object or a light is selected, scale it in the selected axis, not working if no axis is selected |
 | 1/2/3/4/5 | change current drawing material |
 | m | apply the current drawing material to the selected object, not working if no object is selected |
+
+## Link to original Repo : https://github.com/Emilieczq/Simple-Modeler
